@@ -1,2 +1,2 @@
 # pidbasic
-Pseudocode for a PID controller.
+Different types of code for a PID controller.
